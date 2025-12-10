@@ -15,10 +15,10 @@ Source code be found here: [eCRF](https://github.com/venkateshhs/eCRF)
 > **Recommended:** Download from **GitHub Releases**.
 
 - **macOS:**  
-  **Download:** https://github.com/venkateshhs/case-e/releases/latest/download/eCRF-mac.tar.gz
+  **Download:** https://github.com/venkateshhs/case-e/releases/latest/download/case-e.tar.gz
 
 - **Windows:**  
-  **Download:** https://github.com/venkateshhs/case-e/releases/latest/download/eCRF-win.zip
+  **Download:** https://github.com/venkateshhs/case-e/releases/latest/download/case-e.zip
 
 > **Alternative (less preferred):** You can still download the repository ZIP via the green **“Code” -> “Download ZIP”** button, then extract. Releases are smaller and faster.
 
@@ -26,14 +26,14 @@ Source code be found here: [eCRF](https://github.com/venkateshhs/eCRF)
 
 **macOS**
 ```bash
-curl -L -o eCRF-mac.tar.gz https://github.com/venkateshhs/case-e/releases/latest/download/eCRF-mac.tar.gz
-tar -xzf eCRF-mac.tar.gz
+curl -L -o eCRF-mac.tar.gz https://github.com/venkateshhs/case-e/releases/latest/download/case-e.tar.gz
+tar -xzf case-e.tar.gz
 ```
 
 **Windows (PowerShell)**
 ```powershell
-iwr https://github.com/venkateshhs/case-e/releases/latest/download/eCRF-win.zip -OutFile eCRF-win.zip
-Expand-Archive .\eCRF-win.zip -DestinationPath .\eCRF
+iwr https://github.com/venkateshhs/case-e/releases/latest/download/eCRF-win.zip -OutFile case-e.zip
+Expand-Archive .\case-e.zip -DestinationPath .\eCRF
 ```
 
 ---
@@ -43,9 +43,9 @@ Expand-Archive .\eCRF-win.zip -DestinationPath .\eCRF
 Using the case-e standalone application is straightforward and does not require any technical setup.
 
 ### macOS
-1. **Download & Extract** `eCRF-mac.tar.gz` (see link above), then double-click it in Finder **or** run:
+1. **Download & Extract** `case-e.tar.gz` (see link above), then double-click it in Finder **or** run:
    ```bash
-   tar -xzf eCRF-mac.tar.gz
+   tar -xzf case-e.tar.gz
    ```
 2. **Locate the Executable:** In the extracted `eCRF` folder, find **`eCRF-bin`**.
 3. **First-Run on macOS**  
