@@ -1,16 +1,14 @@
 {
-  "created_at": "2026-01-29T05:51:33Z",
-  "commit": "625384757114d9f3851245669ec683e6d881ea0d",
+  "created_at": "2026-02-24T14:35:23Z",
+  "commit": "84be4acfb9af9bac8425e3c4dd90ccfc5ddb1f46",
   "ref_type": "branch",
   "ref_name": "main",
   "artifacts": {
     "macos": {
-      "file": "case-e.tar.gz",
-      "sha256_file": "case-e.tar.gz.sha256"
+      "file": "case-e-macOS.tar.gz"
     },
     "windows": {
-      "file": "case-e.zip",
-      "sha256_file": "case-e.zip.sha256"
+      "file": "case-e-Windows.zip"
     }
   }
 }
