@@ -15,7 +15,7 @@ Source code be found here: [eCRF](https://github.com/venkateshhs/eCRF)
 > **Recommended:** Download from **GitHub Releases**.
 
 - **macOS:** / **Windows**  
-  **Download:** [Case-E](https://github.com/Biomarker-Development-at-INM7/case-e/releases/)
+  **Download:** [Case-E](https://github.com/venkateshhs/case-e/releases/)
 
 > **Alternative (less preferred):** You can still download the repository ZIP via the green **“Code” -> “Download ZIP”** button, then extract. Releases are smaller and faster.
 
