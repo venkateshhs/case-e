@@ -1,8 +1,8 @@
 {
-  "created_at": "2026-02-25T12:20:28Z",
-  "commit": "7cbcc0e8e499889f1fe7945d3de06a37c11ae9a4",
-  "ref_type": "tag",
-  "ref_name": "v0.0.3",
+  "created_at": "2026-03-22T09:25:17Z",
+  "commit": "cb272d464f2106b1558edb1571c8fc8c8a08bd9d",
+  "ref_type": "branch",
+  "ref_name": "main",
   "artifacts": {
     "macos": {
       "file": "case-e-macOS.tar.gz"
