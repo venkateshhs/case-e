@@ -1,7 +1,7 @@
 {
-  "created_at": "2026-10-07T07:42:47Z",
-  "version": "v0.0.16",
-  "commit": "d8f3f2abd44a340cfdbb9e0926e0dcdebe8d292c",
+  "created_at": "2026-10-14T11:53:17Z",
+  "version": "v0.0.17",
+  "commit": "59ca82412b950c999b23fcad78b33341e7f7768d",
   "ref_type": "branch",
   "ref_name": "main",
   "artifacts": {
