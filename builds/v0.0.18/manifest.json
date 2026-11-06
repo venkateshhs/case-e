@@ -1,0 +1,15 @@
+{
+  "created_at": "2026-11-06T11:00:46Z",
+  "version": "v0.0.18",
+  "commit": "5d29b2b33ae177f44ad075cc0eeb1b0da8380b35",
+  "ref_type": "branch",
+  "ref_name": "main",
+  "artifacts": {
+    "macos": {
+      "file": "case-e-macOS.tar.gz"
+    },
+    "windows": {
+      "file": "case-e-Windows.zip"
+    }
+  }
+}
